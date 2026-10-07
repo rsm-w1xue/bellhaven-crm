@@ -1,0 +1,35 @@
+﻿website_name,result,account_id,crm_name,crm_address,crm_phone,details,final_status,final_note
+Bellhaven of Maplewood,VERIFIED,001L3LGR6W69J8DYYV,Bellhaven of Maplewood,210 Orchard Ln Maplewood OH 44280,(614) 250-9447,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of New Carlisle,VERIFIED,001AQGPZ5G5VRES536,Bellhaven of New Carlisle,875 Elm St New Carlisle OH 45344,(614) 900-2177,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Wooster,VERIFIED,001W5G121A7SMRP58M,Bellhaven of Wooster,2301 Cleveland Rd Wooster OH 44691,(517) 712-7557,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Terrace of Akron,VERIFIED,0019Y4J61ZBG4R00CD,Bellhaven Terrace of Akron,55 Ridgewood Ave Akron OH 44313,(260) 899-4605,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Saline,VERIFIED,001MVVAPY6U5TVYRC4,Bellhaven of Saline,980 West Michigan Avenue Saline MI 48176,(614) 868-2766,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Goshen,VERIFIED,001JQER1RMYKNRLNME,Bellhaven of Goshen,1610 College Avenue Goshen IN 46526,(517) 409-8156,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Meadville,VERIFIED,001KC1NG7EZDEKKA3T,Bellhaven of Meadville,341 Chestnut Street Meadville PA 16335,(419) 848-5389,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Defiance,VERIFIED,001R4PXTUD9R6FNN8V,Bellhaven of Defiance,700 Carpenter Road Defiance OH 43512,(231) 238-4862,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Woods of Toledo,VERIFIED,0014DHACE6WQU3RMM5,Bellhaven Woods of Toledo,4850 Northwest Sylvania Avenue Toledo OH 43623,(734) 388-8242,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Marion,VERIFIED,0015L38R1Z5947ZZP7,Bellhaven of Marion,199 Barks Road West Marion OH 43302,(330) 314-3109,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Kalamazoo,VERIFIED,001NSHWKQD0YJLPQ20,Bellhaven of Kalamazoo,3222 Gull Road Kalamazoo MI 49048,(231) 460-1964,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Court of Altoona,VERIFIED,0011D2P3CWSHMF81C8,Bellhaven Court of Altoona,1125 Logan Boulevard Altoona PA 16602,(517) 573-9493,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Rehabilitation & Nursing of Grove City,MISSING,,,,,No exact CRM name match.,VERIFIED,CRM record found under Bellhaven Rehab and Nursing of Grove City.
+Bellhaven at Sycamore Ridge,MISSING,,,,,No exact CRM name match.,VERIFIED,CRM record found as Bellhaven of Sycamore Ridge; physical location verified.
+The Arbors at Bellhaven - Dayton,MISSING,,,,,No exact CRM name match.,VERIFIED,CRM record found as Arbors at Bellhaven Dayton; physical location verified.
+Bellhaven Healthcare Centre of Ashland,MISSING,,,,,No exact CRM name match.,VERIFIED,CRM record found as Bellhaven Health Center of Ashland; physical location verified.
+Bellhaven of Port Clinton,VERIFIED,001UELXDAKFRKB8932,Bellhaven of Port Clinton,1420 Harbor Point Dr Port Clinton OH 43452,(614) 512-8712,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Shores of Erie,VERIFIED,001CVBBCSDM7YHN220,Bellhaven Shores of Erie,4930 W Lake Rd Erie PA 16505,(419) 495-1741,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Kettering,MISSING,,,,,No exact CRM name match.,MANUAL_REVIEW,"Three active CRM accounts exist at 3313 Wilmington Pike, Kettering OH 45429. Cannot safely determine the correct account."
+Bellhaven Gardens of Monroe,VERIFIED,001U1750VLVJAGG1S5,Bellhaven Gardens of Monroe,750 Stewart Rd Monroe MI 48162,(814) 291-2902,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Tiffin,VERIFIED,001U6RW32TY0WSXZZB,Bellhaven of Tiffin,45 St Lawrence Dr Tiffin OH 44883,(614) 829-9278,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Marietta,VERIFIED,001A34WFSUYHCRBLFT,Bellhaven of Marietta,805 Colegate Drive Marietta OH 45750,(419) 353-5019,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Crossings of Lima,VERIFIED,001LGFPBJY4N9MB6KL,Bellhaven Crossings of Lima,3115 N Cole St Lima OH 45801,(734) 872-9575,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Zanesville,VERIFIED,001H1JMVZWP46D5VUF,Bellhaven of Zanesville,2680 Maple Avenue Zanesville OH 43701,(814) 599-2533,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Chagrin Falls,VERIFIED,001RJU1X4NBWC1Q0G7,Bellhaven of Chagrin Falls,150 River St Chagrin Falls OH 44022,(231) 283-7448,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven Willow Creek,VERIFIED,0014FF0E8CC002ACD6,Bellhaven Willow Creek,8068 Willow Creek Ln Portage MI 49024,(419) 394-5494,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Ashtabula,VERIFIED,001NXP9X46CWEPSLSV,Bellhaven of Ashtabula,PO Box 517 Ashtabula OH 44004,(260) 440-4975,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Owosso,MULTIPLE_EXACT_NAME,,Bellhaven of Owosso,,,2 exact-name CRM records.,VERIFIED_DUPLICATE,"Correct CRM record matches website at 1120 W Main St, Owosso MI 48867 with phone (734) 503-1363. A second same-name CRM record exists at the same normalized address with phone (330) 383-5991."
+Bellhaven of Portsmouth,VERIFIED,001CF3LDWVRGL09P4F,Bellhaven of Portsmouth,2222 Gallia St Portsmouth OH 45626,(330) 431-2495,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven of Batavia,VERIFIED,001C047877769014FA,Bellhaven of Batavia,2000 Hospital Dr Batavia OH 45103,(231) 698-3092,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Bellhaven at Union Square,MISSING,,,,,No exact CRM name match.,VERIFIED,"CRM record found as Union Square Senior Living at 240 Market St, New Albany OH 43054."
+Bellhaven of Carlisle,VERIFIED,00184CF7134EB132FA,Bellhaven of Carlisle,640 Walnut Bottom Rd Carlisle PA 17015,(260) 386-7765,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
+Amberly Manor,MULTIPLE_EXACT_NAME,,Amberly Manor,,,2 exact-name CRM records.,VERIFIED,"Correct Hudson CRM record exists at 4390 Darrow Rd, Hudson OH 44236. The Colorado Springs Amberly Manor is a different physical community."
+Bellhaven of Chesterton,VERIFIED,0013NUZQHQUEZ8DXEG,Bellhaven of Chesterton,1250 Northwest Franklin St Chesterton IN 46304,(216) 551-3978,Final expected values verified.,VERIFIED,Verified by final CRM reconciliation.
